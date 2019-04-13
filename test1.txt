@@ -1,0 +1,4 @@
+openDataServer 5400 10
+connect 10.0.2.2 5402
+var rudder = bind "/controls/flight/rudder"
+rudder = 1
